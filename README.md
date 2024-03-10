@@ -7,7 +7,7 @@ Este é um projeto desenvolvido com o objetivo de estudar e implementar uma SPA 
 - **Home:** Página inicial do site, oferece uma visão geral do projeto.
 - **Universo:** Página dedicada a explorar informações sobre o universo.
 - **Exploração:** Página para explorar recursos adicionais e conteúdos relacionados.
-- **404:** Pégina de erro.
+- **404:** Página de erro.
 
 ## Tecnologias Utilizadas
 
