@@ -12,7 +12,6 @@ Este é um projeto desenvolvido com o objetivo de estudar e implementar uma SPA 
 
 - HTML, CSS e JavaScript para a construção da interface.
 - Utilização de conceitos de SPA para otimizar o carregamento e a interatividade.
-- Uso de frameworks ou bibliotecas (se aplicável).
 
 ## Como Usar
 
