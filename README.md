@@ -14,12 +14,6 @@ Este é um projeto desenvolvido com o objetivo de estudar e implementar uma SPA 
 - HTML, CSS e JavaScript para a construção da interface.
 - Utilização de conceitos de SPA para otimizar o carregamento e a interatividade.
 
-## Como Usar
-
-1. Clone este repositório em sua máquina local.
-2. Abra o arquivo `index.html` em seu navegador.
-3. Navegue pelas diferentes páginas do site usando os links de navegação.
-
 ## Contribuição
 
 Sinta-se à vontade para contribuir com melhorias ou correções. Abra uma issue para discutir suas ideias ou envie um pull request.
