@@ -104,3 +104,8 @@ nav a:hover {
   font-size: 1.125rem;
   line-height: 200%;
 }
+
+#a404 {
+  background-color: black;
+  height: 100vh;
+}
